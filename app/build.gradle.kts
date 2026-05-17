@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.brzhang.gemma_ai"
+    namespace = "com.cunyi.gemma"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.brzhang.gemma_ai"
+        applicationId = "com.cunyi.gemma"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

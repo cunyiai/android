@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">村医AI-离线AI问诊助手</string>
-    <style name="Theme.Gemma_ai" parent="android:Theme.Material.Light.NoActionBar"/>
-</resources>
