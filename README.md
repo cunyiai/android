@@ -38,7 +38,7 @@
 2. Android SDK: compileSdk 36
 3. JDK 17
 
-### 📦构建步骤
+### 构建步骤
 
 1. 用 Android Studio 打开本项目根目录
 2. 等待 Gradle Sync 完成（首次会自动下载依赖和 Gradle Wrapper）
@@ -87,7 +87,7 @@ app/src/main/java/com/brzhang/gemma_ai/
     └── TtsHelper.kt         # 文字转语音工具
 ```
 
-## 参考项目
+## 📦参考项目
 
 基于 [coder-brzhang/gemma-ai](https://github.com/coder-brzhang/gemma-ai) 改建。
 
@@ -116,6 +116,6 @@ app/src/main/java/com/brzhang/gemma_ai/
 ## 4.原作者保留追究权利。
 对于违反本声明的商业侵权行为，项目原作者保留采取法律手段追究的权利。
 
-## 许可
+## 📄许可
 
 Apache License 2.0
