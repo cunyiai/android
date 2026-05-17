@@ -10,7 +10,7 @@
 
 
 
-## 功能特性
+## ✨功能特性
 
 | 功能 | 描述 |
 |------|------|
@@ -20,7 +20,7 @@
 | **📊 慢病管理** | 记录血压、血糖、心率，趋势分析，异常预警 |
 | **💊 药物冲突检测** | 自动检查药物相互作用，提前预警 |
 
-## 技术栈
+## 📲技术栈
 
 - **语言**: Kotlin
 - **UI框架**: Jetpack Compose + Material 3
@@ -30,7 +30,7 @@
 - **构建**: Gradle 8.13 + AGP 8.9.2
 - **最低支持**: Android 8.0 (API 26)
 
-## 编译说明
+## 🔧编译说明
 
 ### 环境要求
 
@@ -38,7 +38,7 @@
 2. Android SDK: compileSdk 36
 3. JDK 17
 
-### 构建步骤
+### 📦构建步骤
 
 1. 用 Android Studio 打开本项目根目录
 2. 等待 Gradle Sync 完成（首次会自动下载依赖和 Gradle Wrapper）
@@ -54,7 +54,7 @@
 
 生成的 APK 位于: `app/build/outputs/apk/debug/app-debug.apk`
 
-## 项目结构
+## 🏗️项目结构
 
 ```
 app/src/main/java/com/brzhang/gemma_ai/
